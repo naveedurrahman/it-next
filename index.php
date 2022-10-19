@@ -71,6 +71,10 @@ include('pages/header.php');
         </div>
       </div>
     </div>
+    <div>
+      <h2>healsjjkdf</h2>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo rem magnam ad nihil vero ducimus maiores voluptatum, animi quae minus hic magni minima autem id fugit praesentium reiciendis cupiditate nesciunt.</p>
+    </div>
     <div class="row">
 
       <?php
