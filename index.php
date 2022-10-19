@@ -138,9 +138,6 @@ include('pages/header.php');
   </div>
 </div>
 <!-- end section -->
-<div>
-  <h2>this is heading</h2>
-</div>
 <!-- section -->
 <div class="section padding_layout_1 light_silver gross_layout">
   <div class="container">
